@@ -1,0 +1,93 @@
+t=2019-02-27T00:22:29+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=1 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s&tab=metrics"
+t=2019-02-27T00:22:30+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=6 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s&tab=metrics"
+t=2019-02-27T00:22:31+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=1 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s&tab=metrics"
+t=2019-02-27T00:22:32+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=2 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s&tab=metrics"
+t=2019-02-27T00:23:12+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=1 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:23:12+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=10 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:23:13+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=6 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:23:13+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=2 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:23:14+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=8 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:23:15+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=10 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-5m&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:31:08+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T00:34:29+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=2 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:34:30+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=8 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:34:31+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=8 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T00:34:32+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=6 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T01:32:32+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T01:33:07+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=1 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T01:33:07+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=6 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T01:33:08+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=12 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T01:33:09+0300 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=400 remote_addr=[::1] time_ms=8 size=108 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?orgId=1&from=now-24h&to=now&panelId=2&fullscreen&edit&refresh=1s"
+t=2019-02-27T01:43:37+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T02:10:14+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T02:21:13+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T04:32:54+0300 lvl=info msg="Starting Grafana" logger=server version=5.4.3 commit=6539180 branch=HEAD compiled=2019-01-14T17:26:26+0300
+t=2019-02-27T04:32:54+0300 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3/conf/defaults.ini
+t=2019-02-27T04:32:54+0300 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\conf\\custom.ini
+t=2019-02-27T04:32:54+0300 lvl=info msg="Path Home" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3
+t=2019-02-27T04:32:54+0300 lvl=info msg="Path Data" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\data
+t=2019-02-27T04:32:54+0300 lvl=info msg="Path Logs" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\data\\log
+t=2019-02-27T04:32:54+0300 lvl=info msg="Path Plugins" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\data\\plugins
+t=2019-02-27T04:32:54+0300 lvl=info msg="Path Provisioning" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\conf\\provisioning
+t=2019-02-27T04:32:54+0300 lvl=info msg="App mode production" logger=settings
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing SqlStore" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+t=2019-02-27T04:32:54+0300 lvl=info msg="Starting DB migration" logger=migrator
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing SearchService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing RenderingService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing AlertingService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing DatasourceCacheService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing HooksService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing InternalMetricsService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing CleanUpService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing NotificationService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing ProvisioningService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing PluginManager" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Starting plugin search" logger=plugins
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing TracingService" logger=server
+t=2019-02-27T04:32:54+0300 lvl=info msg="Initializing Stream Manager"
+t=2019-02-27T04:32:54+0300 lvl=info msg="HTTP Server Listen" logger=http.server address=0.0.0.0:3000 protocol=http subUrl= socket=
+t=2019-02-27T05:03:43+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T05:13:45+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T05:18:53+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T05:29:19+0300 lvl=info msg="Request Completed" logger=context userId=0 orgId=1 uname= method=POST path=/api/dashboards/db status=412 remote_addr=[::1] time_ms=13 size=88 referer=
+t=2019-02-27T05:29:27+0300 lvl=info msg="Request Completed" logger=context userId=0 orgId=1 uname= method=POST path=/api/dashboards/db status=412 remote_addr=[::1] time_ms=14 size=88 referer=
+t=2019-02-27T07:39:27+0300 lvl=info msg="Starting Grafana" logger=server version=5.4.3 commit=6539180 branch=HEAD compiled=2019-01-14T17:26:26+0300
+t=2019-02-27T07:39:27+0300 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3/conf/defaults.ini
+t=2019-02-27T07:39:27+0300 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\conf\\custom.ini
+t=2019-02-27T07:39:27+0300 lvl=info msg="Path Home" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3
+t=2019-02-27T07:39:27+0300 lvl=info msg="Path Data" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\data
+t=2019-02-27T07:39:27+0300 lvl=info msg="Path Logs" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\data\\log
+t=2019-02-27T07:39:27+0300 lvl=info msg="Path Plugins" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\data\\plugins
+t=2019-02-27T07:39:27+0300 lvl=info msg="Path Provisioning" logger=settings path=C:\\Users\\artem\\PycharmProjects\\pi_data_collector\\grafana-5.4.3\\conf\\provisioning
+t=2019-02-27T07:39:27+0300 lvl=info msg="App mode production" logger=settings
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing SqlStore" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+t=2019-02-27T07:39:27+0300 lvl=info msg="Starting DB migration" logger=migrator
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing SearchService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing RenderingService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing AlertingService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing DatasourceCacheService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing HooksService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing InternalMetricsService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing CleanUpService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing NotificationService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing ProvisioningService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing PluginManager" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Starting plugin search" logger=plugins
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing TracingService" logger=server
+t=2019-02-27T07:39:27+0300 lvl=info msg="Initializing Stream Manager"
+t=2019-02-27T07:39:27+0300 lvl=info msg="HTTP Server Listen" logger=http.server address=0.0.0.0:3000 protocol=http subUrl= socket=
+t=2019-02-27T07:39:54+0300 lvl=eror msg="Failed to get user with id" logger=context userId=1 error="User not found"
+t=2019-02-27T07:39:57+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T07:55:00+0300 lvl=eror msg="Failed to get user with id" logger=context userId=1 error="User not found"
+t=2019-02-27T07:55:00+0300 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/api/datasources/proxy/1/query status=401 remote_addr=[::1] time_ms=3 size=26 referer="http://localhost:3000/d/rzlhlzrik/stantsiia-1?refresh=1s&from=now-15m&panelId=2&fullscreen&orgId=1&kiosk"
+t=2019-02-27T08:00:03+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T10:09:27+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T10:11:01+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T10:19:27+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T11:59:27+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T13:39:27+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0
+t=2019-02-27T16:19:27+0300 lvl=info msg="Database table locked, sleeping then retrying" logger=sqlstore retry=0

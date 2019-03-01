@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(22,23,25);
+    font-family: Roboto;
+}
+.button {
+    height: 37px;
+    text-decoration: none;
+    font-weight: 500;
+    line-height: 1;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: none;
+    padding: .7rem 1rem;
+    font-size: 13px;
+    border-radius: 2px;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    background-color: #0a437c;
+    border-color: #005f81;
+    transition: 0.3s;
+}
+.button:hover{
+    background: #FFF;
+    color: #000;
+}
+.text_field{
+    height: 32px;
+    border-radius: 2px;
+    border: none;
+    width: 200px;
+}
+.datetime_field{
+    height: 32px;
+    border-radius: 2px;
+    border: none;
+}
+.label{
+    font-weight: 500;
+    line-height: 1;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    text-align: center;
+    display: line;
+}
+form{
+    display: inline-block;
+}
+.right{
+    position: absolute;
+    right: 50px;
+}
+.n{
+    display: block;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}

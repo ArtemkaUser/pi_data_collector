@@ -1,0 +1,4 @@
+name_key: shadr1k
+key: eyJrIjoiM09kR0RFWjNZSzUxWXRZNDR0SEdKN2Y1RERHOFVZbU0iLCJuIjoic2hhZHIxayIsImlkIjoxfQ==
+
+curl -H "Authorization: Bearer eyJrIjoiM09kR0RFWjNZSzUxWXRZNDR0SEdKN2Y1RERHOFVZbU0iLCJuIjoic2hhZHIxayIsImlkIjoxfQ==" http://localhost:3000/api/dashboards/home

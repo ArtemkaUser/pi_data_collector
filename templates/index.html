@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <iframe src={{link}}
+            width="100%" height="500" frameborder="0"></iframe>
+    <div class="block">
+    <form method="POST" class="form" id="from_to">
+        <label class="label">С:</label>
+        <input name="from_date" required class="datetime_field" form="from_to" type="date" value={{from_date}}>
+        <input name="from_time" required class="datetime_field" form="from_to" type="time" value={{from_time}}>
+        <label class="label">До:</label>
+        <input name="to_date" required class="datetime_field" form="from_to" type="date" value={{to_date}}>
+        <input name="to_time" required class="datetime_field" form="from_to" type="time" value={{to_time}}>
+        <input value="Применить" type="submit" class="button" form="from_to">
+    </form>
+    <a class="button" href="/">RealTime</a>
+
+    <select class="text_field right">
+      <option>{{graph}}</option>
+    </select>
+    </div>
+    <label class="label">Наработка: {{operation_t}}</label>
+    <div>
+    <form method="POST" class="form right" id="name">
+        <label class="label">Название станции:</label>
+        <input name="station_name" class="text_field" required placeholder="Станция" form="name">
+        <input value="Применить" type="submit" class="button" form="name">
+    </form>
+    </div>
+    <div>
+        <label class="label n">Фильтрация:</label>
+        <form method="POST" class="form" id="filter">
+            <label class="label">Минимум</label>
+            <input name="min" class="text_field" form="filter">
+            <label class="label">Максимум</label>
+            <input name="max" class="text_field" form="filter">
+            <input value="Применить" type="submit" class="button" form="filter">
+        </form>
+    </div>
+</body>
+</html>
