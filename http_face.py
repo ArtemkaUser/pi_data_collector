@@ -22,8 +22,6 @@ link_end = "&panelId=2&fullscreen&orgId=1&kiosk"
 link_from = "&from="
 link_to = "&to="
 link = link_server + uid + link_station
-MAX = 500
-MIN = 0
 
 
 def get_data_n_time():
